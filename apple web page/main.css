@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;;
+}
+
+#nav{
+    border: 2px solid;
+    height: 50px;
+    background-color: rgba(0, 0, 0, .8);
+
+}
+#sub-nav{
+    border: 2px solid red;
+    height: inherit;
+    width: 68%;
+    margin: auto;
+}
+#sub-nav ol{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: 
+}
+

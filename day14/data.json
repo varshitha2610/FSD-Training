@@ -1,0 +1,20 @@
+[{
+    "name" : "abhi" ,
+    "id"   : 1 ,
+    "boolean" : true , 
+    "array" : [10,20,30] ,
+    "object" : {
+        "designation" : "developer"
+               } ,
+    "null" : null
+},
+{
+  "name" : "varshitha" ,
+    "id"   : 2 ,
+    "boolean" : false , 
+    "array" : [10,20,30] ,
+    "object" : {
+        "designation" : "developer"
+               } ,
+    "null" : null  
+}]
